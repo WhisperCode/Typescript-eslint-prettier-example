@@ -2,7 +2,7 @@
 
 ## 安装eslint,prettier的开发依赖
 
-[-] ### yarn 安装方式
+### yarn 安装方式
 
 ```shell
 
@@ -10,7 +10,7 @@ yarn add eslint prettier @typescript-eslint/eslint-plugin @typescript-eslint/par
 eslint-plugin-prettier -D
 ```
 
-### [-] npm 安装方式
+###  npm 安装方式
 
 ```shell
 yarn add eslint prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier 
