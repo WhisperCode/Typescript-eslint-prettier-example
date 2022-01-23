@@ -1,0 +1,4 @@
+.idea
+yarn-lock-error.log
+dist
+node_modules
